@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+driver_state.json
+context_state.json
+advisory_state.json
+models/
+Contextra_v3_unzipped/
+*.tmp
+face_landmarker.task

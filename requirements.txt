@@ -1,0 +1,10 @@
+# Already installed in the project's .venv from earlier steps. Listed for reference.
+streamlit>=1.37
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+joblib
+# Optional, only for carla_bridge.py (use a Python version supported by your CARLA release):
+# carla
